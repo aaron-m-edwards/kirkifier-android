@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Kirkifier</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_kirkvision">Kirkvision</string>
+
+    <string name="button_kirkvision">Start Kirkvision</string>
+    <string name="action_kirkvision_toggleCamera">Toggle Camera</string>
+
+</resources>
